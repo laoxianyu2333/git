@@ -1,0 +1,10 @@
+# Claude Code 本地配置
+.claude/
+
+# VS Code 个人设置
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
